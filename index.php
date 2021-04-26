@@ -37,10 +37,6 @@
           
            
         ];
-    
-       
-    
-    
     ?>
     <p> <?php echo $partite[0]['casa'];?>-<?php echo $partite[0]['ospite'];?>||
     <?php echo $partite[0]['punti_casa']?>-<?php echo $partite[0]['punti_ospite'];?> </p>
